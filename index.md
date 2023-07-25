@@ -1,18 +1,11 @@
-# 欢迎大家来我主页！！！
-![Windows11](http://x0.ifengimg.com/res/2021/7192CF00F40F36F13BB29A21AF6B804B554575FB_size1212_w1880_h899.png)
-
-# 一楼-个人信息  
-真实身份：一个还在地球的人，正在做系统。爱关注别人。  
-最擅长的：玩Windows……  
-真名：~~无~~    
-性别：🚹  
-星座：♎️  
-生产日期：2010/与🇨🇳同庆
-
-# 二楼  
-## 一些链接  
-[`在线Minecraft(远古版本)`](https://classic.minecraft.net)  
+![]()
   
-[`在线SuperMario(远古版本)`](https://supermarioplay.com/)   
+[`Lindows协议`](https://mariowindows.github.io/license.md)   
 
-[`勿 信 勿 点`](https://www.bilibili.com/video/BV1GJ411x7h7/)
+[`下载Lindows`](https://mariowindows.github.io/)
+
+[`Lindows帮助`](https://mariowindows.github.io/help.rtf)
+
+[`下载Lindows协议rtf版本`](https://mariowindows.github.io/license.rtf)
+
+[`Turbowarp协议`](https://mariowindows.github.io/turbowarp.md)  
