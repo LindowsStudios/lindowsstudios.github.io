@@ -1,7 +1,7 @@
 ![]()
 ## [`Lindows帮助`](https://mariowindows.github.io/Markdown/help)
 
-## [`Lindows下载`](https://mariowindows.github.io/download.md)  
+## [`Lindows下载`](https://mariowindows.github.io/download)  
 
 ### [`查看Lindows协议`](https://mariowindows.github.io/license.md/Markdown/license)   
 
